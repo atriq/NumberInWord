@@ -3,5 +3,6 @@ public class Main {
         NumberInWord.printNumberInWord(1);
         NumberInWord.printNumberInWord(2);
         NumberInWord.printNumberInWord(3);
+        NumberInWord.printNumberInWord(4);
     }
 }
